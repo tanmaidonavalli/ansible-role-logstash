@@ -1,7 +1,4 @@
 ---
-dependencies:
-  - { role: avinash6784.oracle-java }
-
 galaxy_info:
   author: avinash6784 (Avinash Pawar)
   description: Ansible role to install Logstash
