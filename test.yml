@@ -2,5 +2,4 @@
 - hosts: localhost
   become: true
   roles:
-    - { role: ansible-role-elasticsearch }
     - { role: ansible-role-logstash }
